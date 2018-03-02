@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Thu Mar 01 16:08:56 CST 2018
+7.path=classes.dex
+2.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\assets\\debug
+5.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libbdSpilWakeup.so
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\assets\\debug
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=lib/armeabi/libvad.dnn.so
+4.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.set=DEX
+count=8
+5.baseType=DIRECTORY
+2.path=WakeUp.bin
+5.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.set=NATIVE_RESOURCE
+3.path=earth.flv
+6.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=lib/armeabi/libbdEASRAndroid.so
+7.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/armeabi/libbd_easr_s1_merge_normal_20151216.dat.so
+0.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=lib/armeabi/libBaiduSpeechSDK.so
+1.base=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

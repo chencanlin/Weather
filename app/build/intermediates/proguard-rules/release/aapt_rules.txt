@@ -1,0 +1,117 @@
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_bottom_navigation_item.xml:0
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_navigation_item.xml:0
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_navigation_menu.xml:0
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_layout_snackbar_include.xml:0
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_text_input_password_icon.xml:0
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_bottom_sheet_dialog.xml:0
+# Referenced at C:\Users\ccl\Downloads\Weather-master\app\src\main\res\layout\activity_main.xml:0
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout-sw600dp-v13\design_layout_snackbar.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\52a6f000101497296c9ca8722d092187\res\layout\design_layout_snackbar.xml:0
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_material.xml:0
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_button_bar_material.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_material.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_title_material.xml:0
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_select_dialog_material.xml:0
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_action_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_expanded_menu_layout.xml:0
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_list_menu_item_layout.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_popup_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout-v26\abc_screen_toolbar.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout-v26\abc_screen_toolbar.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_action_mode_bar.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout-v26\abc_screen_toolbar.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_action_menu_layout.xml:0
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_activity_chooser_view.xml:0
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_material.xml:0
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_button_bar_material.xml:0
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_content_include.xml:0
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_alert_dialog_title_material.xml:0
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_dialog_title_material.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_simple.xml:0
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_search_view.xml:0
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout-v26\abc_screen_toolbar.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_simple.xml:0
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\da650fd86c20ed64954bfc49ec1304f8\res\layout\abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\ccl\Downloads\Weather-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:46
+-keep class com.baidu.speech.VoiceRecognitionService { <init>(...); }
+
+# Referenced at C:\Users\ccl\Downloads\Weather-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:50
+-keep class com.ccl.perfectisshit.weather.MainActivity { <init>(...); }
+
+# Referenced at C:\Users\ccl\Downloads\Weather-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:61
+-keep class com.ccl.perfectisshit.weather.service.MyService { <init>(...); }
+
+# Referenced at C:\Users\ccl\Downloads\Weather-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:62
+-keep class com.ccl.perfectisshit.weather.service.MyService$GrayInnerService { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.0.aar\089b1356d1f0c6cd6606af369bd92e9b\res\layout\exo_simple_player_view.xml:0
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.0.aar\089b1356d1f0c6cd6606af369bd92e9b\res\layout\exo_playback_control_view.xml:0
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(...); }
+
+# Referenced at C:\Users\ccl\Downloads\Weather-master\app\src\main\res\layout\common_mini.xml:0
+-keep class com.google.android.exoplayer2.ui.PlayerView { <init>(...); }
+
+# Referenced at C:\Users\ccl\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.0.aar\089b1356d1f0c6cd6606af369bd92e9b\res\layout\exo_simple_player_view.xml:0
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(...); }
+

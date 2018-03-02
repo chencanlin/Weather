@@ -1,0 +1,4 @@
+#Wed Feb 28 18:01:38 CST 2018
+base.0=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

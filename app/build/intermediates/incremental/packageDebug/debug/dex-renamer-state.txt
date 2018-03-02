@@ -1,0 +1,4 @@
+#Thu Mar 01 16:08:56 CST 2018
+base.0=C\:\\Users\\ccl\\Downloads\\Weather-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
